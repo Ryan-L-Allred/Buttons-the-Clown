@@ -1,0 +1,42 @@
+{
+  "clowns": [
+    {
+      "id": 1,
+      "name": "Buttons"
+    },
+    {
+      "id": 2,
+      "name": "Lollipop"
+    }
+  ],
+  "completions": [],
+  "reservations": [
+    {
+      "parentName": "",
+      "childName": "",
+      "numberOfChildren": "",
+      "address": "",
+      "date": "",
+      "durationInHours": "",
+      "id": 1
+    },
+    {
+      "parentName": "",
+      "childName": "",
+      "numberOfChildren": "",
+      "address": "",
+      "date": "",
+      "durationInHours": "",
+      "id": 2
+    },
+    {
+      "parentName": "",
+      "childName": "",
+      "numberOfChildren": "",
+      "address": "",
+      "date": "",
+      "durationInHours": "",
+      "id": 3
+    }
+  ]
+}
